@@ -6,5 +6,5 @@ def initialize(id:, name:, type:, hp: nil, db:)
   end
 
   
-  
+
 end
